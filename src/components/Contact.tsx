@@ -15,7 +15,7 @@ export default function Contact() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/521XXXXXXXXXX?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
+            href="https://wa.me/17867713523?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex flex-col items-center p-8 rounded-2xl border border-stone-700 hover:border-green-500 hover:bg-green-500/5 transition-all"
@@ -35,7 +35,7 @@ export default function Contact() {
 
           {/* Teléfono */}
           <a
-            href="tel:+521XXXXXXXXXX"
+            href="tel:+17867713523"
             className="group flex flex-col items-center p-8 rounded-2xl border border-stone-700 hover:border-amber-500 hover:bg-amber-500/5 transition-all"
           >
             <div className="mb-4 rounded-full bg-amber-500/10 p-4 group-hover:bg-amber-500/20 transition-colors">
@@ -87,7 +87,7 @@ export default function Contact() {
 
         <div className="text-center mt-16">
           <a
-            href="https://wa.me/521XXXXXXXXXX?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
+            href="https://wa.me/17867713523?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 rounded-lg bg-green-600 px-8 py-4 text-lg font-semibold text-white hover:bg-green-700 transition-colors shadow-lg shadow-green-600/25"

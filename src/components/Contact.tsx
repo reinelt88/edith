@@ -28,7 +28,7 @@ export default function Contact() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5 max-w-4xl mx-auto">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/17867713523?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
+            href="https://wa.me/529161126159?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex flex-col items-center p-8 rounded-2xl bg-white/5 border border-white/10 hover:border-green-500/50 hover:bg-green-500/5 transition-all duration-300 cursor-pointer backdrop-blur-sm"
@@ -51,7 +51,7 @@ export default function Contact() {
 
           {/* Phone */}
           <a
-            href="tel:+17867713523"
+            href="tel:+529161126159"
             className="group flex flex-col items-center p-8 rounded-2xl bg-white/5 border border-white/10 hover:border-amber-500/50 hover:bg-amber-500/5 transition-all duration-300 cursor-pointer backdrop-blur-sm"
           >
             <div className="mb-5 rounded-2xl bg-amber-500/10 p-4 group-hover:bg-amber-500/20 group-hover:scale-110 transition-all duration-300">
@@ -72,7 +72,7 @@ export default function Contact() {
             <h3 className="text-lg font-semibold text-white mb-1">Teléfono</h3>
             <p className="text-sm text-slate-400 mb-3">Llámame directo</p>
             <span className="text-xs text-amber-400 font-medium opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-              +1 (786) 771-3523
+              +52 916 112 6159
             </span>
           </a>
 
@@ -109,7 +109,7 @@ export default function Contact() {
         {/* Main CTA */}
         <div className="text-center mt-16">
           <a
-            href="https://wa.me/17867713523?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
+            href="https://wa.me/529161126159?text=Hola%20Edith,%20me%20interesa%20cotizar%20un%20trabajo"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-3 rounded-xl bg-green-600 px-10 py-4.5 text-lg font-semibold text-white hover:bg-green-500 transition-all duration-200 shadow-lg shadow-green-600/25 hover:shadow-xl hover:shadow-green-500/30 hover:-translate-y-0.5 cursor-pointer"
